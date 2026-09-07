@@ -1,0 +1,19 @@
+# Local build products and downloaded dependencies
+/build/
+/dist/
+
+# Reverse-engineering notes and one-off analysis helpers are not part of the plugin
+/tools/
+
+# Visual Studio and editor state
+.vs/
+.vscode/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Windows noise
+Thumbs.db
+Desktop.ini
+
